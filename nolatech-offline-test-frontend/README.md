@@ -6,7 +6,7 @@ Este proyecto es una aplicación de evaluación 360 grados desarrollada con Reac
 
 ### Prerrequisitos
 
-- Node.js (versión 14 o superior)
+- Node.js (versión 20 o superior)
 - npm (versión 6 o superior)
 
 ### Instalación
