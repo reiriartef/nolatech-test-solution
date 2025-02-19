@@ -4,7 +4,7 @@ Este proyecto es el backend para la prueba offline de Nolatech. Está construido
 
 ## Estructura del Proyecto
 
-nolatech-offline-test-backend/
+```nolatech-offline-test-backend/
 ├── config/
 │ └── db.js # Configuración de la conexión a la base de datos
 ├── controllers/
@@ -42,7 +42,7 @@ nolatech-offline-test-backend/
 ├── .gitignore # Archivos y directorios ignorados por git
 ├── index.js # Punto de entrada de la aplicación
 ├── package.json # Dependencias y scripts del proyecto
-└── README.md # Documentación del proyecto
+└── README.md # Documentación del proyecto```
 
 ## Configuración
 
